@@ -117,6 +117,7 @@ class _MyAppState extends State<MyApp> {
             Locale("vi", "VN"),
             Locale("zh", "CN"),
             Locale("ne", "NP"),
+            Locale("en", "NG"),
           ],
         ),
       );
